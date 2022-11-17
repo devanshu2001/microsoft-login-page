@@ -1,0 +1,89 @@
+body{
+    background-image: url(dirty.white.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div1
+{
+    margin: 450px;
+    margin-top: 80px;
+    width: 460px;
+    padding: 7px;
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    padding-right: 60px;
+    
+}
+#img1
+{
+    
+}
+#p1
+{
+    margin-left: 75px;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: -70px;
+}
+#textbox
+{
+    margin-left: 75px;
+    border: 1px solid #ffffff;
+    font-size: 17px;
+}
+hr
+{
+    width: 380px;
+    margin-bottom: 17px;
+    margin-right: 0px;
+}
+
+label
+{
+margin-left: 80px;
+color: #1b1b1b;
+font-size: 17px;
+}
+#a1
+{
+    color: #108df3;
+}
+#a2
+{
+    margin-left: 80px;
+}
+ #a1:hover{
+    text-decoration: underline;
+    color: #666666;
+ }
+ #a2{
+    font-size: 17px;
+    text-decoration: none;
+    color: #108df3;
+    float: left;
+    margin-right: 0px;
+ }
+ #a2:hover{
+    text-decoration: underline;
+ }
+
+ #a3{
+    float: left;
+    margin-left: 0px;
+ }
+
+ #img2{
+    width: 30px;
+    margin-left: 0px;
+ }
+ #submit{
+    width: 120px;
+    background-color: #005da6;
+    color: white;
+    font-size: 18px;
+    padding: 7px;
+    border: 1px solid #005da6;
+    margin-left: 340px;
+ }
+ 
+ 
